@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jiqiren"
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: 
+        - cosmo
+    mainfont: "EB Garamond, Georgia, serif"
+      
+    css: styles.css
+
+editor: visual
+
