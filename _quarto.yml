@@ -7,9 +7,13 @@ website:
   navbar:
     right:
       - icon: github
-        href: https://github.com/
+        href: https://github.com/rachidsahli
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/Rach_maqnin
+        
+        
+  page-footer: "Jiqiren 2025"
+  
 format:
   html:
     theme: 
