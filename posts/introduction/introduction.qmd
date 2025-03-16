@@ -4,3 +4,5 @@ lang: "fr"
 date: 15 mars 2025
 number-sections: true
 ---
+
+Ce blog me permet de partager et d’expliquer les concepts que j’apprends au fil de mon exploration de la robotique, car je suis persuadé que transmettre ses connaissances est l’un des meilleurs moyens de les maîtriser pleinement.
